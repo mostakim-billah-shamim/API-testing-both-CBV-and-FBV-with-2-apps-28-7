@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'API_Func',
     'API_Class',
+    'API_Mixing',
+    'API_Mixing_Two',
     'rest_framework',
 ]
 

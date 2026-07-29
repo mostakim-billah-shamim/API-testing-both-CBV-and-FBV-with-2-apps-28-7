@@ -21,4 +21,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('apif/', include('API_Func.urls')),
     path('apic/', include('API_Class.urls')),
+    path('apim/', include('API_Mixing.urls')),
+    path('apimt/', include('API_Mixing_Two.urls')),
 ]
