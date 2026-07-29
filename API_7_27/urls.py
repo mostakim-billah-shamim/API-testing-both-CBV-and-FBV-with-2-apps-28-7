@@ -23,4 +23,5 @@ urlpatterns = [
     path('apic/', include('API_Class.urls')),
     path('apim/', include('API_Mixing.urls')),
     path('apimt/', include('API_Mixing_Two.urls')),
+    path('apima/', include('API_Mixing_All.urls')),
 ]

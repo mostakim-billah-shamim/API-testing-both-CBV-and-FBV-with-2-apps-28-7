@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'API_Class',
     'API_Mixing',
     'API_Mixing_Two',
+    'API_Mixing_All',
     'rest_framework',
 ]
 
